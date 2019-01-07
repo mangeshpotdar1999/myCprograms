@@ -1,0 +1,10 @@
+My first C ++ Program 
+#include<iostream.h>
+void main()
+{
+  char name[20];
+  cout<<"enter your name";
+  cin>>name;
+  cout<<"name = "<<name;
+getch();
+}
